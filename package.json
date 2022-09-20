@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-v1.0.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolas1996-ing/random-str-msg-v1.0.0.git"
+  },
+  "keywords": [],
+  "author": "Nicolas Aristizabal <josenicolasaristizabalramirez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolas1996-ing/random-str-msg-v1.0.0/issues"
+  },
+  "homepage": "https://github.com/nicolas1996-ing/random-str-msg-v1.0.0#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
